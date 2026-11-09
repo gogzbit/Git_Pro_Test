@@ -11,7 +11,10 @@ using namespace std;
 template <typename T>
 inline T& func(T& var1);
 
+//asd
+//asd
 
+//adasdada
 
 int main() {
   int a = 5;
