@@ -11,6 +11,7 @@ using namespace std;
 template <typename T>
 inline T& func(T& var1);
 
+
 int main() {
   int a = 5;
   int b = func(a);
